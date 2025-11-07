@@ -2,4 +2,5 @@ pandas
 open3d
 trimesh
 tqdm
+git+https://github.com/RAQ314/objaverse-xl.git
 
